@@ -1,5 +1,5 @@
 # Flower Classification
-Simple Flower Classificaiton with CNN using Keras.
+Simple Flower Classification with CNN using Keras.
 
 <br>
 
