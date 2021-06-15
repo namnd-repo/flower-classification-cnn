@@ -7,12 +7,7 @@ Simple Flower Classification with CNN using Keras.
 [Pycharm](https://www.jetbrains.com/pycharm/download/)
 
 ## Dataset Description
-The dataset consists of 3670 images of flowers divided into 5 different categories:
-* Daisy
-* Dandelion
-* Rose
-* Sunflower
-* Tulip
+The dataset consists of 3670 images of flowers divided into 5 different categories.
 
 Download link: https://www.tensorflow.org/datasets/catalog/tf_flowers.
 
