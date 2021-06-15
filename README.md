@@ -31,7 +31,7 @@ Install Keras, cv2, Numpy, Sklearn, Matplotlib.
 
 Copy downloaded dataset to the project (some folders need to be renamed). Following the folder structure:
 
-![image](https://user-images.githubusercontent.com/85830956/121950367-bec62a80-cd83-11eb-9dde-0c7811da2804.png)
+![image](https://user-images.githubusercontent.com/85830956/121985787-9e1bc600-cdbf-11eb-82e7-7bf92edc28f3.png)
 
 ## Running the program
 preprocess.py >> train.py >> predict.py
