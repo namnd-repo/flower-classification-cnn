@@ -1,5 +1,5 @@
 # Flower Classification
-Simple Flower Classification with CNN using Keras.
+Simple Flower Classification with Convolutional Neural Network using Keras.
 
 <br>
 
@@ -12,24 +12,18 @@ The dataset consists of 3670 images of flowers divided into 5 different categori
 Download link: https://www.tensorflow.org/datasets/catalog/tf_flowers.
 
 ## Installing
-* For installing, download ZIP or clone project:
+* Download ZIP or clone project:
 <pre>
 git clone https://github.com/namnd-repo/flower-classification-cnn.git
 </pre>
 
-* Create new project on Pycharm
+* Install libraries
+* 
+Tensorflow, OpenCV, Numpy, Sklearn, Matplotlib. 
 
-Location is the downloaded "flower-classification-cnn" > Create from existing sources.
+* Copy dataset
 
-* Install environment
-
-File > Settings > Project > Project Interpreter.
-
-Install Keras, cv2, Numpy, Sklearn, Matplotlib. 
-
-* Dataset
-
-Copy downloaded dataset to the project (some folders need to be renamed). Following the folder structure:
+Some folders need to be renamed. Following the folder structure:
 
 ![image](https://user-images.githubusercontent.com/85830956/121985787-9e1bc600-cdbf-11eb-82e7-7bf92edc28f3.png)
 
