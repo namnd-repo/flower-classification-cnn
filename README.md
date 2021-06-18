@@ -18,7 +18,7 @@ git clone https://github.com/namnd-repo/flower-classification-cnn.git
 </pre>
 
 * Install libraries
-* 
+
 Tensorflow, OpenCV, Numpy, Sklearn, Matplotlib. 
 
 * Copy dataset
