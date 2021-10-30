@@ -27,10 +27,5 @@ Some folders need to be renamed. Following the folder structure:
 
 ![image](https://user-images.githubusercontent.com/85830956/121985787-9e1bc600-cdbf-11eb-82e7-7bf92edc28f3.png)
 
-## Running the program
-preprocess.py >> train.py >> predict.py
-
-After running preprocess.py and train.py, "data.pickle" and "model.h5" will be created.
-
 ## Results
 Accuracy: **92.10**%
